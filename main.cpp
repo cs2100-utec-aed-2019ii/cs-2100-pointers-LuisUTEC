@@ -30,7 +30,7 @@ int main (int, char * []){
     //16. 19
     //17. Error
     //18. 18
-    //19. 
+    //19. cuando se encuentra un espacio en un string, corta el string y se queda con el recorte. (Lo demas se borra)
     //20. reemplaza las comas de un string por espacios en blanco
     
     return 1;
