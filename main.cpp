@@ -27,7 +27,11 @@ int main (int, char * []){
     int suma(int *a, int* b){
         return *a + *b;
     }
-    
+    //16. 19
+    //17. Error
+    //18. 18
+    //19. 
+    //20. reemplaza las comas de un string por espacios en blanco
     
     return 1;
 }
